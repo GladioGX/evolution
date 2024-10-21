@@ -4,4 +4,5 @@ project(Evolution)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Evolution main.cpp
-        event.cpp)
+        event.cpp
+        event.h)
