@@ -1,0 +1,7 @@
+{
+    twinLuck=100;
+    otherSetting=50;
+    maxPlayers=10;
+    spawnRate=5;
+    gameMode=1;
+}
