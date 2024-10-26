@@ -40,5 +40,6 @@ void loop() {
 int main() {
     srand(time(0));
     loop();
+    system("pause");
     return 0;
 }
