@@ -5,6 +5,6 @@
 #include <iostream>
 using namespace std;
 
-void event(string _name); // Déclaration d'une fonction
+void event(unsigned long long int _nmbrOfSpecimen); // Déclaration d'une fonction
 
 #endif
